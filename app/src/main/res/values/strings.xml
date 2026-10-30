@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hà Dư Tuấn _ 524H0134</string>
+    <string name="btn_object">OBJECT</string>
+    <string name="btn_complex">COMPLEX</string>
+    <string name="btn_array">ARRAY</string>
+    <string name="error_msg">Không lấy được dữ liệu</string>
+</resources>
